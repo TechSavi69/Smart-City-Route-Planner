@@ -84,6 +84,6 @@ If you'd like, I can also:
 
 ---
 
-Generated/updated on: 2025-10-25
+updated on: 2025-10-25
 
 
